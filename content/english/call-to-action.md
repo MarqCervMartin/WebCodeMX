@@ -1,10 +1,10 @@
 ---
-title : "NEED A SERVICE?"
+title : "¿Quieres asistir a los mejores eventos de tecnología?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
-  label : "SAY HELLO!"
-  link : "#contact"
+  label : "Mandanos Inbox!"
+  link : "https://www.facebook.com/CodeeMX"
 
 
 # custom style

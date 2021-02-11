@@ -1,12 +1,12 @@
 ---
-title : "SERVICES"
+title : "Profesionales en"
 service_list:
 # service item loop
 - name : "Web Development"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "Software Development"
   image : "images/icons/graphic-design.png"
   
 # service item loop
@@ -14,7 +14,7 @@ service_list:
   image : "images/icons/dbms.png"
   
 # service item loop
-- name : "Software Development"
+- name : "Circuit Design"
   image : "images/icons/software-development.png"
   
 # service item loop

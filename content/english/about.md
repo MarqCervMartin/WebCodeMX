@@ -1,55 +1,57 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "¿Code MX? <br> ¿Qué hacemos?"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
-  link : "#"
+  label : "YouTube"
+  link : "https://www.youtube.com/channel/UCve0-mOyNxzTnr5HvHF0RSw"
+  target: "_blank"
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "Participaciones"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Lady Problems Hack"
+      company : "TelmexHub"
+      duration : "16 de Noviembre 2016"
+      content : "Anteriormente Jimmy Vazquez asistio a comunidades geek, talleres, web y muchas laptops con gente cool guiandote en la industria tech."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "HackMX"
+      company : "https://hackmx.mx/"
+      duration : "27 y 28 de abril 2019"
+      content : "Conocer a gente de google, IBM, startups financieras y una universidad completamente diferente, hicieron ampliar la visión de Omar, Esteban, Rocky y Martín ."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "UNAMXHacks"
+      company : "https://mxhacks.io/"
+      duration : "del 21 al 27 de Oct 2019"
+      content : "Muchos amigos, compañeros de ICO asistieron a conocer la comunidad geek!, bailes, comida y retos de Facebook, Microsoft, MLH.
+      El equipo MiniCells de Code MX ganó el reto de la Major League Hacking - Reto UIPath."
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "Comunidad"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Ingeniería en Computación"
+      percentage : "80%"
       
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
+    - name : "Web developers"
+      percentage : "40%"
       
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
+    - name : "Mobile developers"
+      percentage : "35%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Researchers"
+      percentage : "20%"
 
 
 # custom style
@@ -58,4 +60,6 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Impartimos Talleres, charlas, meetups e información de lo ultimo en tecnologías. Estudiantes, autodidactas, profesionales, investigadores, desarrolladores, guardias de seguriad.
+
+¡Code MX es para todos, únete!
