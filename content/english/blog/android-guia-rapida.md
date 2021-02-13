@@ -6,7 +6,6 @@ tags:
 - android
 - java
 description: Como empezar a crear aplicaciones móviles.
-draft: true
 
 ---
 ¿Te has preguntado como programar una aplicación para dispositivos móviles?, si son tus primeros pasos y quieres reforzar tus conocimientos sin duda este post es para tí. Tratare de ser breve y de ser necesario algunos ejemplos y tips para seguir en el desarrollo de aplicaciones móviles y puedes poco a poco entender el mundo del desarrollo móvil.
