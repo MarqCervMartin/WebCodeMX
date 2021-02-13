@@ -1,6 +1,6 @@
 ---
 title: "Participaciones"
-description: "This is meta description."
+description: "CodeMX ha dejado huella.... gracias a ti!"
 draft: false
 
 

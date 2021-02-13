@@ -4,7 +4,7 @@ date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item4.jpg"
 tags: ["access","database"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

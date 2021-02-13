@@ -1,5 +1,5 @@
 ---
-title : "Nuevos Miembros/Colaboradores"
+title : "Nuevos Coders"
 testimonial_slider:
 # slider item loop
 - name : "Mariana HL"

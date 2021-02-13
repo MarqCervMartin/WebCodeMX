@@ -1,6 +1,6 @@
 ---
-title: "Oh My Blog!"
-description: "This is meta description."
+title: "¡CodeMX Blog!"
+description: "En este espacio encontraras tutoriales, cosas geek, etc."
 draft: false
 
 

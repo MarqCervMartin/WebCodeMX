@@ -1,7 +1,7 @@
 ---
 title : "Manda un inbox!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
-form_action: "#" # works with https://formspree
+form_action: "https://formspree.io/f/mqkgokrv" # works with https://formspree
 name: "Nombre"
 email: "Email"
 message: "Mensaje"
