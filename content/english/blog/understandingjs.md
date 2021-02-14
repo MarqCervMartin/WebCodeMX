@@ -8,8 +8,6 @@ tags:
 description: Javascript.
 
 ---
-<div class=text-justify>
-
 Javascript is one of the top programming languages in this 2021 and I really love it, that’s why today we’re gonna talk about a topic that sometimes is very complex for beginners. To create truly powerfull and great apps, we need to understant how JS manage the variables, functions, call’s, etc. So, let’s talk about variables declaratations and how we have to be carefull in some cases.
 
 #### ¿Javascript or ECMAScript?, ¿are they the same?
@@ -218,6 +216,6 @@ After all this explanation, I hope your js knowledge will be better and more str
 
 <img src="/images/blog/understandingjs/jimmy.jpeg" style="border-radius: 50%;float: right; " />
 
-WRITTEN BY Jimmy Vasquez   <a href="https://jimmyvazz.medium.com/" target="_blank">Follow</a> | --- | :---: | ---: | Software Engineer📱 Editor on Nerd For Tech 👔  Geek ❤ Feb 1  5 min read  Javascript |
+WRITTEN BY Jimmy Vasquez   <a href="https://jimmyvazz.medium.com/" target="_blank">Follow</a>   
 
-</div>
+Software Engineer📱 Editor on Nerd For Tech 👔  Geek ❤ Feb 1  5 min read  Javascript |
