@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://codemx.org"
+baseURL = "https://web-code-mx.vercel.app/"
 title = "CodeMX"
 theme = "somrat"
 # post pagination
